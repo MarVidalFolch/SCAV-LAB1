@@ -28,4 +28,4 @@ We have created a script with a function that applies the run-length encoding fr
 
 ### Exercise 5
 ---
-NO IDEA.
+We have created a script that computes the DCT from a png black and white image. 
